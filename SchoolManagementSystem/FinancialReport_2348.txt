@@ -1,0 +1,36 @@
+Financial Report 
+================
+Title: 2348's Financial Summary
+Student ID: 2348
+Date: 2024-06-11
+Author: Hamza Malik
+
+Financial Summary
+----------------
+Total Income: 1500.0
+Total Expenses: 1500.0
+Net Income: 0.0
+
+Savings Goal: 1500
+Current Savings: 200
+Dept Amount: 6250.0
+
+Dept Paid Off: 3000.0
+
+Budget Analysis
+-----------------
+Budgeted Income: 1500.0
+Total Budget Expenses: 1500.0
+Budget Balance: 0.0
+Detailed Budgeted Expenses:
+Transportation: 300.0
+Housing: 1200.0
+Food: 0.0
+
+Recommendations:
+- Work on your habits!
+- Work on your income!
+
+Appendicies:
+- Finances
+- Summary

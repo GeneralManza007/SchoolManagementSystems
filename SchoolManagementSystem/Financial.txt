@@ -1,0 +1,2 @@
+ID; In; WhereMoneyComingInFrom; HowMuchComeIn; 
+ID; Out; WhereMoneyGoingTo; HowMuchGoingOut;
